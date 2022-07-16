@@ -1,0 +1,12 @@
+span.sort {
+    cursor: pointer;
+    padding: 6px 5px 5px 5px;
+    color: black;
+    border-radius: 50%;
+
+}
+
+span.sort:hover{
+    background-color: aquamarine;
+
+}
